@@ -1,5 +1,5 @@
 import json
-ffile = "c:/Users/denis/Documents/LAB4/json/data.json"
+ffile ="C:\Users\7bayb\work2\lab4\json"
 with open(ffile) as file:
     our_json = json.load(file) 
     print('''Interface Status
